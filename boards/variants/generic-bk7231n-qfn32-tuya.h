@@ -66,14 +66,14 @@
 #define PIN_PWM4 24u // GPIO24
 #define PIN_PWM5 26u // GPIO26
 #define PIN_RX1  10u // GPIO10
-#define PIN_RX2  1u  // GPIO1
+#define PIN_RX2  0u  // GPIO1
 #define PIN_SCK  14u // GPIO14
 #define PIN_SCL1 20u // GPIO20
 #define PIN_SCL2 0u  // GPIO0
 #define PIN_SDA1 21u // GPIO21
 #define PIN_SDA2 1u  // GPIO1
 #define PIN_TX1  11u // GPIO11
-#define PIN_TX2  0u  // GPIO0
+#define PIN_TX2  1u  // GPIO0
 
 // Port availability
 // -----------------
